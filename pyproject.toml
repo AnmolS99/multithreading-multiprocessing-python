@@ -1,0 +1,11 @@
+[project]
+name = "multithreading-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "aiohttp>=3.10.11",
+    "django>=4.2.27",
+    "fastapi[standard]>=0.124.4",
+]
