@@ -9,7 +9,7 @@ Short, focused repo that complements a blog post about multithreading and multip
 
 ## Running the code
 
-Add all necessary dependencies by running `uv sync`
+Add all necessary dependencies by running `uv sync`.
 
 ### Start a backend server
 
@@ -17,7 +17,7 @@ Add all necessary dependencies by running `uv sync`
 
     -   `cd django-webapp`
     -   For single-threaded: `python3 manage.py runserver --nothreading`
-        -   For multi-threaded: `python3 manage.py runserver`
+    -   For multi-threaded: `python3 manage.py runserver`
 
 -   FastAPI (async):
 
@@ -30,5 +30,8 @@ Add all necessary dependencies by running `uv sync`
 
 ### Send concurrent calls to the server
 
--   Benchmark script:
-    -   From repo root: `python3 benchmark.py`
+From repo root: `python3 benchmark.py`.
+
+## Figures
+
+Figures explaining multithreading, multiprocessing and asynchronous execution are available in the `/img` folder. These were drawn in Excalidraw.
