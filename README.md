@@ -1,6 +1,6 @@
 # Multithreading & Multiprocessing in Python
 
-Short, focused repo that complements a blog post about multithreading and multiprocessing in Python.
+Short, focused repo that complements a [blog post](https://anmols.bearblog.dev/understanding-multithreading-and-multiprocessing-in-python/) about multithreading and multiprocessing in Python.
 
 ## Prerequisites
 
